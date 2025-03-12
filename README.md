@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+daily-standup-management
+# Daily Standup Management
 
 > Slugline
 

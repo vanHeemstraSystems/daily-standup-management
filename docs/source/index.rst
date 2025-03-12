@@ -1,5 +1,5 @@
-Welcome to Your Project Documentation
-======================================
+Welcome to Daily Standup Management Documentation
+==================================================
 
 .. toctree::
    :maxdepth: 2
